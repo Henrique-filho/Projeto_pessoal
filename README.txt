@@ -22,7 +22,14 @@
 
         2-USUÁRIOS
             * vendas
+                    - á vista
+                    - a prazo
+                    - delivery
             * convênios
+                    - venda recorrente antecipada
+                            > desconto 
+                    - venda recorrente 
+
             * relatórios de entrada, saida e estoque
                     - diários
                     - semanais 
@@ -39,5 +46,8 @@
 
 
 2 --> FRENTE/CAIXA
-            * mapa
-            
+            * abrir caixa
+            * mapa de mesas
+                    - balança
+                    - 
+
