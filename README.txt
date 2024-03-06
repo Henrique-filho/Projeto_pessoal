@@ -1,16 +1,15 @@
 
 
+(1º passo) ---> AUTENTICAÇÃO
 
-
-RETAGUARDA
-
----> AUTENTICAÇÃO (1º passo)
+1 --> RETAGUARDA
         
         1-ADMIN
             * cadastrar produtos
             * cadastrar clientes 
             * cadastrar fornecedores
             * vendas
+                    - extorno
             * convênios
                     - análise e liberação de crédito
 
@@ -18,10 +17,8 @@ RETAGUARDA
                     - diários
                     - semanais 
                     - mensais
-
             * NFe/NFCe
             * estoque
-            * orçamendos
 
         2-USUÁRIOS
             * vendas
@@ -30,8 +27,17 @@ RETAGUARDA
                     - diários
                     - semanais 
                     - mensais
-            * 
+
+            
 
         3-VENDEDOR/GARÇON
+                    - comanda
+                            > abre comanda
+                            > fecha comanda
 
-FRENTE/CAIXA
+                    - lança produtos
+
+
+2 --> FRENTE/CAIXA
+            * mapa
+            
